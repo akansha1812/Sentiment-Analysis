@@ -1,5 +1,5 @@
 # sentiment-r
-BlackRock Project: sentiment analysis of amazon user reviews in R.
+Sentiment analysis of amazon user reviews in R.
 (in active development)
 
 Note - Requires sentimentr package and other dependencies of sentimentr to be externally downloaded via CRAN repository in a .zip or .tar.gz format. Do not add a install.package(sentimentr) line in the R files otherwise it will show connection error - contrib.url not able to connect.
